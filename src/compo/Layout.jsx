@@ -7,10 +7,10 @@ function Layout() {
       <nav>
         <ul>
           <li>
-            <Link to="/">Home</Link>
+            <Link to="/proj-0810/">Home</Link>
           </li>
           <li>
-            <Link to="/login">Login</Link>
+            <Link to="/proj-0810/login">Login</Link>
           </li>
         
         </ul>
